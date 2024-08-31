@@ -45,7 +45,7 @@ function App() {
 
           </Route>
 
-          <Route path="*" element={<div>Not found</div>} />
+          <Route path="***" element={<div>Not found</div>} />
         </Routes>
       </BrowserRouter>
     </React.Fragment>
